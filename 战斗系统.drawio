@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T08:21:57.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.7" etag="sxezZcrDLWMV9CTVn8_p" type="github"><diagram id="DCQTpSnvQqqdHSPU8Su_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-10T09:53:42.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="JMD4_FbOzkF_GsXJwmSl" version="20.3.7" type="github">
+  <diagram id="DCQTpSnvQqqdHSPU8Su_" name="第 1 页">
+    <mxGraphModel dx="886" dy="477" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="J65oYaziSaqW7BmbICTs-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="34" y="33" width="769" height="465" as="geometry" />
+        </mxCell>
+        <mxCell id="J65oYaziSaqW7BmbICTs-4" value="战斗内" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="65.5" y="45" width="696.5" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="J65oYaziSaqW7BmbICTs-9" value="战斗回合" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="108" y="105" width="617" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="J65oYaziSaqW7BmbICTs-10" value="&lt;b&gt;战斗外&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="62.25" y="356.5" width="696.5" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="J65oYaziSaqW7BmbICTs-12" value="战力属性系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="132" y="385.75" width="98" height="46.5" as="geometry" />
+        </mxCell>
+        <mxCell id="J65oYaziSaqW7BmbICTs-14" value="宠物系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="336" y="388" width="98" height="46.5" as="geometry" />
+        </mxCell>
+        <mxCell id="J65oYaziSaqW7BmbICTs-17" value="装备系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="551" y="384.25" width="95" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="J65oYaziSaqW7BmbICTs-21" value="战报组装、广播" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="111" y="241" width="603" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="J65oYaziSaqW7BmbICTs-25" value="指令接收" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="108" y="77" width="616" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="J65oYaziSaqW7BmbICTs-27" value="战斗结算" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="108" y="292" width="616" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="J65oYaziSaqW7BmbICTs-39" value="战斗单位" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="242" y="138" width="434" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J65oYaziSaqW7BmbICTs-40" value="buff系统" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="293" y="169" width="56" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="J65oYaziSaqW7BmbICTs-44" value="技能列表" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="362" y="169" width="56" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="J65oYaziSaqW7BmbICTs-46" value="战力属性" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="431" y="169" width="56" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="J65oYaziSaqW7BmbICTs-48" value="阵营队伍" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="501.5" y="169" width="56" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="J65oYaziSaqW7BmbICTs-50" value="基本状态" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="570.5" y="169" width="56" height="25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
