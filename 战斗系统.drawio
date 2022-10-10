@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T09:53:42.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="JMD4_FbOzkF_GsXJwmSl" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-10T12:25:24.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="svfDHefjsXufYRMsPBzX" version="20.3.7" type="github">
   <diagram id="DCQTpSnvQqqdHSPU8Su_" name="第 1 页">
-    <mxGraphModel dx="886" dy="477" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="526" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="J65oYaziSaqW7BmbICTs-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="34" y="33" width="769" height="465" as="geometry" />
+          <mxGeometry x="37" y="21" width="766" height="477" as="geometry" />
         </mxCell>
-        <mxCell id="J65oYaziSaqW7BmbICTs-4" value="战斗内" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="J65oYaziSaqW7BmbICTs-4" value="&lt;font color=&quot;#ff0a33&quot;&gt;战斗内&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="65.5" y="45" width="696.5" height="280" as="geometry" />
         </mxCell>
         <mxCell id="J65oYaziSaqW7BmbICTs-9" value="战斗回合" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="108" y="105" width="617" height="168" as="geometry" />
+          <mxGeometry x="108" y="70" width="617" height="203" as="geometry" />
         </mxCell>
-        <mxCell id="J65oYaziSaqW7BmbICTs-10" value="&lt;b&gt;战斗外&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="J65oYaziSaqW7BmbICTs-10" value="&lt;b&gt;&lt;font color=&quot;#ff0d45&quot;&gt;战斗外&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="62.25" y="356.5" width="696.5" height="105" as="geometry" />
         </mxCell>
         <mxCell id="J65oYaziSaqW7BmbICTs-12" value="战力属性系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -25,11 +25,8 @@
         <mxCell id="J65oYaziSaqW7BmbICTs-17" value="装备系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="551" y="384.25" width="95" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="J65oYaziSaqW7BmbICTs-21" value="战报组装、广播" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="111" y="241" width="603" height="22" as="geometry" />
-        </mxCell>
-        <mxCell id="J65oYaziSaqW7BmbICTs-25" value="指令接收" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="108" y="77" width="616" height="19" as="geometry" />
+        <mxCell id="J65oYaziSaqW7BmbICTs-21" value="战报组装、广播" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="127" y="241" width="573" height="22" as="geometry" />
         </mxCell>
         <mxCell id="J65oYaziSaqW7BmbICTs-27" value="战斗结算" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="108" y="292" width="616" height="21" as="geometry" />
@@ -51,6 +48,12 @@
         </mxCell>
         <mxCell id="J65oYaziSaqW7BmbICTs-50" value="基本状态" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="570.5" y="169" width="56" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="J65oYaziSaqW7BmbICTs-53" value="客户端指令接收" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="129.5" y="100" width="573" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="J65oYaziSaqW7BmbICTs-54" value="触发管理器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="129.5" y="138" width="106.5" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
